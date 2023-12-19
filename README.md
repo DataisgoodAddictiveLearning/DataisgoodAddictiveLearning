@@ -7,3 +7,4 @@
 <!---
 DataisgoodAddictiveLearning/DataisgoodAddictiveLearning is a placement hub
 This course is recognized by the National Skill Development Corporation , a PPP under the Ministry of Skill Development and Entrepreneurship of the Government of India. You will receive a certificate cobranded by NSDC and Skill India on successful completion.
+https://dataisgood.com/data-science/
